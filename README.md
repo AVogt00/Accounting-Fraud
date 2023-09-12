@@ -1,6 +1,11 @@
-# Accounting Fraud
+# Finanz- und Bilanzbetrug in Europa: Eine empirische Medienanalyse
 
-**Dataset und Cases zur Bachelorarbeit:** 
+**Bachelor Thesis;**
+**Fälle und Datenübersichten der durchgeführten Analyse**
 
-**Finanz- und Bilanzbetrug in Europa:** 
-**Eine empirische Medienanalyse**
+**Albert-Ludwigs-Universität Freiburg**
+
+**Lehrstuhl für Financial Accounting & Auditing**
+
+## Author
+Alexander Vogt
